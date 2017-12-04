@@ -1,5 +1,5 @@
 # GitTest
-学习使用git
+使用git
 
 //跳转到.ssj目录下
 
